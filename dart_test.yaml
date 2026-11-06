@@ -1,0 +1,8 @@
+# Test suite configuration.
+#
+# `live` marks the tests that talk to the real KKP and BMKG endpoints. They run
+# by default, because the app's whole value is that chain still working; use
+# `flutter test --exclude-tags live` on a dead connection.
+tags:
+  live:
+    description: Hits the real KKP and BMKG servers over the network.

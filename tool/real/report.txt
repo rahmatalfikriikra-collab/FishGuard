@@ -1,0 +1,14 @@
+land_mask.bin  3667x1600  733400 B  lat -15.0..9.0 lon 90.0..145.0
+WPP 571  2026-11-04  baris=25 pakai=25 dibuang=0 di_darat=0  #1 95°52'54" BT 6°12'56" LU
+WPP 572  2026-11-04  baris=50 pakai=50 dibuang=0 di_darat=0  #1 94°15'39" BT 1°06'46" LU
+WPP 573  DI DARAT #40 DIBUANG: 116°27'57" BT 8°43'35" LS  (116.46583, -8.72639)
+WPP 573  2026-11-04  baris=50 pakai=50 dibuang=0 di_darat=1  #1 123°58'51" BT 10°29'11" LS
+WPP 711  2026-11-04  baris=50 pakai=50 dibuang=0 di_darat=0  #1 109°10'46" BT 5°49'21" LU
+WPP 712  2026-11-04  baris=50 pakai=50 dibuang=0 di_darat=0  #1 109°35'32" BT 6°04'48" LS
+WPP 713  2026-11-04  baris=50 pakai=50 dibuang=0 di_darat=0  #1 118°18'28" BT 0°03'30" LU
+WPP 714  2026-11-04  baris=50 pakai=50 dibuang=0 di_darat=0  #1 123°42'58" BT 7°20'10" LS
+WPP 715  2026-11-04  baris=50 pakai=50 dibuang=0 di_darat=0  #1 129°09'31" BT 1°22'12" LU
+WPP 716  2026-11-04  baris=50 pakai=50 dibuang=0 di_darat=0  #1 127°05'19" BT 2°26'30" LU
+WPP 717  2026-11-04  baris=50 pakai=50 dibuang=0 di_darat=0  #1 134°23'40" BT 1°49'14" LU
+WPP 718  2026-11-04  baris=50 pakai=50 dibuang=0 di_darat=0  #1 133°57'03" BT 7°37'09" LS
+WPP ditulis: 571, 572, 573, 711, 712, 713, 714, 715, 716, 717, 718

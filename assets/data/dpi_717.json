@@ -1,0 +1,958 @@
+{
+  "type": "FeatureCollection",
+  "wpp": "717",
+  "tanggal": "2026-11-04",
+  "sumber": "Tabel DPI resmi KKP — dibaca ulang dari gambar yang diterbitkan portal-informasi.kkp.go.id",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.394444,
+          1.820556
+        ]
+      },
+      "properties": {
+        "nomor": 1,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "134°23'40\" BT",
+        "lat_dms": "1°49'14\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.9425,
+          -0.594167
+        ]
+      },
+      "properties": {
+        "nomor": 2,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "137°56'33\" BT",
+        "lat_dms": "0°35'39\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.135556,
+          1.323056
+        ]
+      },
+      "properties": {
+        "nomor": 3,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "130°08'08\" BT",
+        "lat_dms": "1°19'23\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.133611,
+          -0.679722
+        ]
+      },
+      "properties": {
+        "nomor": 4,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "135°08'01\" BT",
+        "lat_dms": "0°40'47\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.14,
+          -0.061667
+        ]
+      },
+      "properties": {
+        "nomor": 5,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "132°08'24\" BT",
+        "lat_dms": "0°03'42\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.779444,
+          2.2675
+        ]
+      },
+      "properties": {
+        "nomor": 6,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "131°46'46\" BT",
+        "lat_dms": "2°16'03\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.215,
+          -1.465556
+        ]
+      },
+      "properties": {
+        "nomor": 7,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "139°12'54\" BT",
+        "lat_dms": "1°27'56\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.572778,
+          0.8575
+        ]
+      },
+      "properties": {
+        "nomor": 8,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "136°34'22\" BT",
+        "lat_dms": "0°51'27\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.454722,
+          0.309167
+        ]
+      },
+      "properties": {
+        "nomor": 9,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "134°27'17\" BT",
+        "lat_dms": "0°18'33\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.125833,
+          0.472222
+        ]
+      },
+      "properties": {
+        "nomor": 10,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "138°07'33\" BT",
+        "lat_dms": "0°28'20\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.697778,
+          -0.255
+        ]
+      },
+      "properties": {
+        "nomor": 11,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "136°41'52\" BT",
+        "lat_dms": "0°15'18\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.488056,
+          -2.588889
+        ]
+      },
+      "properties": {
+        "nomor": 12,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "135°29'17\" BT",
+        "lat_dms": "2°35'20\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.355833,
+          2.266111
+        ]
+      },
+      "properties": {
+        "nomor": 13,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "129°21'21\" BT",
+        "lat_dms": "2°15'58\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.935278,
+          2.603611
+        ]
+      },
+      "properties": {
+        "nomor": 14,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "130°56'07\" BT",
+        "lat_dms": "2°36'13\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.782222,
+          -1.650278
+        ]
+      },
+      "properties": {
+        "nomor": 15,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "140°46'56\" BT",
+        "lat_dms": "1°39'01\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.070278,
+          0.417222
+        ]
+      },
+      "properties": {
+        "nomor": 16,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "140°04'13\" BT",
+        "lat_dms": "0°25'02\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.886944,
+          2.47
+        ]
+      },
+      "properties": {
+        "nomor": 17,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "136°53'13\" BT",
+        "lat_dms": "2°28'12\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.393611,
+          3.648333
+        ]
+      },
+      "properties": {
+        "nomor": 18,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "133°23'37\" BT",
+        "lat_dms": "3°38'54\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.370278,
+          1.813611
+        ]
+      },
+      "properties": {
+        "nomor": 19,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "133°22'13\" BT",
+        "lat_dms": "1°48'49\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.847778,
+          1.073889
+        ]
+      },
+      "properties": {
+        "nomor": 20,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "134°50'52\" BT",
+        "lat_dms": "1°04'26\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.748611,
+          1.681667
+        ]
+      },
+      "properties": {
+        "nomor": 21,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "131°44'55\" BT",
+        "lat_dms": "1°40'54\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.950833,
+          1.208056
+        ]
+      },
+      "properties": {
+        "nomor": 22,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "133°57'03\" BT",
+        "lat_dms": "1°12'29\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.201667,
+          0.283333
+        ]
+      },
+      "properties": {
+        "nomor": 23,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "133°12'06\" BT",
+        "lat_dms": "0°16'60\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.35,
+          -2.265
+        ]
+      },
+      "properties": {
+        "nomor": 24,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "140°20'60\" BT",
+        "lat_dms": "2°15'54\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.476389,
+          2.469167
+        ]
+      },
+      "properties": {
+        "nomor": 25,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "135°28'35\" BT",
+        "lat_dms": "2°28'09\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.839722,
+          0.475278
+        ]
+      },
+      "properties": {
+        "nomor": 26,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "138°50'23\" BT",
+        "lat_dms": "0°28'31\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.221111,
+          -0.184444
+        ]
+      },
+      "properties": {
+        "nomor": 27,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "136°13'16\" BT",
+        "lat_dms": "0°11'04\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2825,
+          1.426667
+        ]
+      },
+      "properties": {
+        "nomor": 28,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "138°16'57\" BT",
+        "lat_dms": "1°25'36\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.817778,
+          1.096944
+        ]
+      },
+      "properties": {
+        "nomor": 29,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "131°49'04\" BT",
+        "lat_dms": "1°05'49\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.979444,
+          -0.735
+        ]
+      },
+      "properties": {
+        "nomor": 30,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "136°58'46\" BT",
+        "lat_dms": "0°44'06\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4525,
+          1.863056
+        ]
+      },
+      "properties": {
+        "nomor": 31,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "132°27'09\" BT",
+        "lat_dms": "1°51'47\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.629722,
+          -0.143889
+        ]
+      },
+      "properties": {
+        "nomor": 32,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "135°37'47\" BT",
+        "lat_dms": "0°08'38\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.85,
+          1.376944
+        ]
+      },
+      "properties": {
+        "nomor": 33,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "130°50'60\" BT",
+        "lat_dms": "1°22'37\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.546667,
+          -0.805278
+        ]
+      },
+      "properties": {
+        "nomor": 34,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "134°32'48\" BT",
+        "lat_dms": "0°48'19\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.955556,
+          2.296389
+        ]
+      },
+      "properties": {
+        "nomor": 35,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "133°57'20\" BT",
+        "lat_dms": "2°17'47\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.924167,
+          -1.759722
+        ]
+      },
+      "properties": {
+        "nomor": 36,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "134°55'27\" BT",
+        "lat_dms": "1°45'35\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.875278,
+          0.929722
+        ]
+      },
+      "properties": {
+        "nomor": 37,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "132°52'31\" BT",
+        "lat_dms": "0°55'47\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.321111,
+          2.245556
+        ]
+      },
+      "properties": {
+        "nomor": 38,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "130°19'16\" BT",
+        "lat_dms": "2°14'44\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.481944,
+          -0.361944
+        ]
+      },
+      "properties": {
+        "nomor": 39,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "133°28'55\" BT",
+        "lat_dms": "0°21'43\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.351111,
+          3.369167
+        ]
+      },
+      "properties": {
+        "nomor": 40,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "132°21'04\" BT",
+        "lat_dms": "3°22'09\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.238611,
+          -0.022778
+        ]
+      },
+      "properties": {
+        "nomor": 41,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "137°14'19\" BT",
+        "lat_dms": "0°01'22\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.313056,
+          0.464167
+        ]
+      },
+      "properties": {
+        "nomor": 42,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "130°18'47\" BT",
+        "lat_dms": "0°27'51\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.469722,
+          -1.401667
+        ]
+      },
+      "properties": {
+        "nomor": 43,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "138°28'11\" BT",
+        "lat_dms": "1°24'06\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506389,
+          0.979444
+        ]
+      },
+      "properties": {
+        "nomor": 44,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "135°30'23\" BT",
+        "lat_dms": "0°58'46\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.756667,
+          0.953611
+        ]
+      },
+      "properties": {
+        "nomor": 45,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "129°45'24\" BT",
+        "lat_dms": "0°57'13\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.540833,
+          -1.238611
+        ]
+      },
+      "properties": {
+        "nomor": 46,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "135°32'27\" BT",
+        "lat_dms": "1°14'19\" LS",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.641667,
+          3.768889
+        ]
+      },
+      "properties": {
+        "nomor": 47,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "134°38'30\" BT",
+        "lat_dms": "3°46'08\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.974722,
+          2.040833
+        ]
+      },
+      "properties": {
+        "nomor": 48,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "130°58'29\" BT",
+        "lat_dms": "2°02'27\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.416389,
+          3.066667
+        ]
+      },
+      "properties": {
+        "nomor": 49,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "136°24'59\" BT",
+        "lat_dms": "3°03'60\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.796944,
+          1.148056
+        ]
+      },
+      "properties": {
+        "nomor": 50,
+        "wpp": "717",
+        "tanggal": "2026-11-04",
+        "lon_dms": "138°47'49\" BT",
+        "lat_dms": "1°08'53\" LU",
+        "ocr_conf": 100,
+        "sumber": "https://portal-informasi.kkp.go.id/media/sync/peta-pdpi/tabel_dpi_717_20261104.png"
+      }
+    }
+  ]
+}

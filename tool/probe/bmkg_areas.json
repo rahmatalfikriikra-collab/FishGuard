@@ -1,0 +1,1694 @@
+﻿{
+    "data": [
+        {
+            "province": "Aceh",
+            "areas": [
+                {
+                    "id": "P.A.05",
+                    "name": "Perairan Aceh Besar - Meulaboh"
+                },
+                {
+                    "id": "P.A.04",
+                    "name": "Perairan Sabang Banda Aceh"
+                },
+                {
+                    "id": "P.A.02",
+                    "name": "Perairan Aceh Utara - Aceh Timur"
+                },
+                {
+                    "id": "P.A.03",
+                    "name": "Perairan Utara Pidie Jaya - Aceh Besar"
+                },
+                {
+                    "id": "P.A.08",
+                    "name": "Perairan Selatan Simeulue"
+                },
+                {
+                    "id": "P.A.07",
+                    "name": "Perairan Aceh Singkil Pulo Banyak"
+                },
+                {
+                    "id": "P.A.01",
+                    "name": "Perairan Tamiang - Langsa"
+                },
+                {
+                    "id": "P.A.06",
+                    "name": "Perairan Aceh Barat Daya - Simeulue"
+                }
+            ]
+        },
+        {
+            "province": "Bali",
+            "areas": [
+                {
+                    "id": "P.P.04",
+                    "name": "Perairan Selatan P. Bali"
+                },
+                {
+                    "id": "P.P.02",
+                    "name": "Selat Badung"
+                },
+                {
+                    "id": "P.P.01",
+                    "name": "Perairan Utara P. Bali"
+                },
+                {
+                    "id": "P.P.06",
+                    "name": "Selat Lombok Bagian Selatan"
+                },
+                {
+                    "id": "P.P.05",
+                    "name": "Selat Lombok Bagian Utara"
+                },
+                {
+                    "id": "P.P.03",
+                    "name": "Selat Bali Bagian Selatan"
+                }
+            ]
+        },
+        {
+            "province": "Banten",
+            "areas": [
+                {
+                    "id": "P.I.02",
+                    "name": "Perairan Utara Serang"
+                },
+                {
+                    "id": "P.I.01",
+                    "name": "Perairan Utara Tangerang"
+                },
+                {
+                    "id": "P.I.03",
+                    "name": "Selat Sunda Bagian Utara"
+                },
+                {
+                    "id": "P.I.04",
+                    "name": "Selat Sunda Barat Pandeglang"
+                },
+                {
+                    "id": "P.I.05",
+                    "name": "Perairan Selatan Pandeglang"
+                },
+                {
+                    "id": "P.I.06",
+                    "name": "Perairan Selatan Lebak"
+                }
+            ]
+        },
+        {
+            "province": "Bengkulu",
+            "areas": [
+                {
+                    "id": "P.G.01",
+                    "name": "Perairan Bengkulu Bagian Utara"
+                },
+                {
+                    "id": "P.G.02",
+                    "name": "Perairan Bengkulu"
+                },
+                {
+                    "id": "P.G.03",
+                    "name": "Perairan Bengkulu Bagian Selatan"
+                },
+                {
+                    "id": "P.G.04",
+                    "name": "Perairan P. Enggano"
+                }
+            ]
+        },
+        {
+            "province": "DI Yogyakarta",
+            "areas": [
+                {
+                    "id": "P.N.03",
+                    "name": "Perairan Gunungkidul"
+                },
+                {
+                    "id": "P.N.01",
+                    "name": "Perairan Kulonprogo"
+                },
+                {
+                    "id": "P.N.02",
+                    "name": "Perairan Bantul"
+                }
+            ]
+        },
+        {
+            "province": "DKI Jakarta",
+            "areas": [
+                {
+                    "id": "P.J.01",
+                    "name": "Perairan Kep. Seribu Bagian Utara"
+                },
+                {
+                    "id": "P.J.03",
+                    "name": "Teluk Jakarta"
+                },
+                {
+                    "id": "P.J.02",
+                    "name": "Perairan Kep. Seribu Bagian Selatan"
+                }
+            ]
+        },
+        {
+            "province": "Gorontalo",
+            "areas": [
+                {
+                    "id": "P.AB.01",
+                    "name": "Perairan Utara Gorontalo"
+                },
+                {
+                    "id": "P.AB.02",
+                    "name": "Teluk Tomini Selatan Gorontalo"
+                }
+            ]
+        },
+        {
+            "province": "Indonesia",
+            "areas": [
+                {
+                    "id": "M.33",
+                    "name": "Laut Arafuru bagian tengah"
+                },
+                {
+                    "id": "M.15",
+                    "name": "Samudra Hindia selatan NTT"
+                },
+                {
+                    "id": "M.42",
+                    "name": "Samudra Pasifik utara Papua"
+                },
+                {
+                    "id": "M.02",
+                    "name": "Selat Malaka bagian tengah"
+                },
+                {
+                    "id": "M.03",
+                    "name": "Samudra Hindia barat Aceh"
+                },
+                {
+                    "id": "M.04",
+                    "name": "Samudra Hindia barat Kep. Nias"
+                },
+                {
+                    "id": "M.05",
+                    "name": "Samudra Hindia barat Kep. Mentawai"
+                },
+                {
+                    "id": "M.06",
+                    "name": "Samudra Hindia barat Bengkulu"
+                },
+                {
+                    "id": "M.29",
+                    "name": "Laut Banda"
+                },
+                {
+                    "id": "M.07",
+                    "name": "Samudra Hindia barat Lampung"
+                },
+                {
+                    "id": "M.38",
+                    "name": "Laut Maluku"
+                },
+                {
+                    "id": "M.09",
+                    "name": "Samudra Hindia selatan Jawa Barat"
+                },
+                {
+                    "id": "M.12",
+                    "name": "Samudra Hindia selatan Jawa Timur"
+                },
+                {
+                    "id": "M.01",
+                    "name": "Selat Malaka bagian utara"
+                },
+                {
+                    "id": "M.16",
+                    "name": "Laut Natuna Utara"
+                },
+                {
+                    "id": "M.20",
+                    "name": "Laut Jawa bagian tengah"
+                },
+                {
+                    "id": "M.21",
+                    "name": "Laut Jawa bagian timur"
+                },
+                {
+                    "id": "M.25",
+                    "name": "Laut Bali"
+                },
+                {
+                    "id": "M.28",
+                    "name": "Teluk Bone"
+                },
+                {
+                    "id": "M.24",
+                    "name": "Selat Makassar bagian selatan"
+                },
+                {
+                    "id": "M.30",
+                    "name": "Laut Seram"
+                },
+                {
+                    "id": "M.31",
+                    "name": "Laut Arafuru bagian Utara"
+                },
+                {
+                    "id": "M.27",
+                    "name": "Laut Flores"
+                },
+                {
+                    "id": "M.18",
+                    "name": "Selat Karimata bagian selatan"
+                },
+                {
+                    "id": "M.17",
+                    "name": "Selat Karimata bagian utara"
+                },
+                {
+                    "id": "M.08",
+                    "name": "Samudra Hindia selatan Banten"
+                },
+                {
+                    "id": "M.10",
+                    "name": "Samudra Hindia selatan Jawa Tengah"
+                },
+                {
+                    "id": "M.11",
+                    "name": "Samudra Hindia selatan DI Yogyakarta"
+                },
+                {
+                    "id": "M.13",
+                    "name": "Samudra Hindia selatan Bali"
+                },
+                {
+                    "id": "M.14",
+                    "name": "Samudra Hindia selatan NTB"
+                },
+                {
+                    "id": "M.19",
+                    "name": "Laut Jawa bagian barat"
+                },
+                {
+                    "id": "M.26",
+                    "name": "Laut Sumbawa"
+                },
+                {
+                    "id": "M.22",
+                    "name": "Selat Makassar bagian utara"
+                },
+                {
+                    "id": "M.23",
+                    "name": "Selat Makassar bagian tengah"
+                },
+                {
+                    "id": "M.37",
+                    "name": "Laut Sulawesi bagian timur"
+                },
+                {
+                    "id": "M.35",
+                    "name": "Laut Sulawesi bagian barat"
+                },
+                {
+                    "id": "M.36",
+                    "name": "Laut Sulawesi bagian tengah"
+                },
+                {
+                    "id": "M.39",
+                    "name": "Samudra Pasifik utara Maluku"
+                },
+                {
+                    "id": "M.40",
+                    "name": "Samudra Pasifik utara Papua Barat Daya"
+                },
+                {
+                    "id": "M.32",
+                    "name": "Laut Arafuru bagian barat"
+                },
+                {
+                    "id": "M.34",
+                    "name": "Laut Arafuru bagian timur"
+                },
+                {
+                    "id": "M.41",
+                    "name": "Samudra Pasifik utara Papua Barat"
+                }
+            ]
+        },
+        {
+            "province": "Jambi",
+            "areas": [
+                {
+                    "id": "P.E.05",
+                    "name": "Perairan Sadu"
+                },
+                {
+                    "id": "P.E.01",
+                    "name": "Perairan Tungkal"
+                },
+                {
+                    "id": "P.E.02",
+                    "name": "Perairan Mendahara Ilir"
+                },
+                {
+                    "id": "P.E.03",
+                    "name": "Perairan Sabak Timur"
+                },
+                {
+                    "id": "P.E.04",
+                    "name": "Perairan NIpah"
+                }
+            ]
+        },
+        {
+            "province": "Jawa Barat",
+            "areas": [
+                {
+                    "id": "P.J.12",
+                    "name": "Perairan Pangandaran"
+                },
+                {
+                    "id": "P.J.06",
+                    "name": "Perairan Indramayu"
+                },
+                {
+                    "id": "P.J.04",
+                    "name": "Perairan Bekasi - Karawang"
+                },
+                {
+                    "id": "P.J.05",
+                    "name": "Perairan Subang"
+                },
+                {
+                    "id": "P.J.07",
+                    "name": "Perairan Cirebon"
+                },
+                {
+                    "id": "P.J.08",
+                    "name": "Perairan Sukabumi"
+                },
+                {
+                    "id": "P.J.09",
+                    "name": "Perairan Cianjur"
+                },
+                {
+                    "id": "P.J.10",
+                    "name": "Perairan Garut"
+                },
+                {
+                    "id": "P.J.11",
+                    "name": "Perairan Tasikmalaya"
+                }
+            ]
+        },
+        {
+            "province": "Jawa Tengah",
+            "areas": [
+                {
+                    "id": "P.M.01",
+                    "name": "Perairan Cilacap"
+                },
+                {
+                    "id": "P.K.06",
+                    "name": "Perairan Pati - Rembang"
+                },
+                {
+                    "id": "P.K.01",
+                    "name": "Perairan Kep. Karimunjawa Bagian Barat"
+                },
+                {
+                    "id": "P.K.02",
+                    "name": "Perairan Kep. Karimunjawa Bagian Timur"
+                },
+                {
+                    "id": "P.L.01",
+                    "name": "Perairan Brebes"
+                },
+                {
+                    "id": "P.L.02",
+                    "name": "Perairan Tegal"
+                },
+                {
+                    "id": "P.L.03",
+                    "name": "Perairan Pemalang"
+                },
+                {
+                    "id": "P.K.03",
+                    "name": "Perairan Pekalongan - Kendal"
+                },
+                {
+                    "id": "P.K.04",
+                    "name": "Perairan Semarang - Demak"
+                },
+                {
+                    "id": "P.K.05",
+                    "name": "Perairan Jepara"
+                },
+                {
+                    "id": "P.M.02",
+                    "name": "Perairan Kebumen"
+                },
+                {
+                    "id": "P.M.03",
+                    "name": "Perairan Purworejo"
+                }
+            ]
+        },
+        {
+            "province": "Jawa Timur",
+            "areas": [
+                {
+                    "id": "P.O.34",
+                    "name": "Selat Bali bagian utara"
+                },
+                {
+                    "id": "P.O.13",
+                    "name": "Perairan Kep. Kangean  Bagian Timur"
+                },
+                {
+                    "id": "P.O.02",
+                    "name": "Perairain Bawean Bagian Utara"
+                },
+                {
+                    "id": "P.O.33",
+                    "name": "Perairan Banyuwangi"
+                },
+                {
+                    "id": "P.O.01",
+                    "name": "Perairan Masalembo"
+                },
+                {
+                    "id": "P.O.14",
+                    "name": "Alur Penyeberangan Barat Surabaya (APBS)"
+                },
+                {
+                    "id": "P.O.06",
+                    "name": "Perairan Gresik Bagian Utara"
+                },
+                {
+                    "id": "P.O.25",
+                    "name": "Perairan Situbondo Bagian Timur"
+                },
+                {
+                    "id": "P.O.17",
+                    "name": "Perairan Selatan Sampang"
+                },
+                {
+                    "id": "P.O.10",
+                    "name": "Perairan Sumenep Bagian Utara"
+                },
+                {
+                    "id": "P.O.11",
+                    "name": "Perairan Kep. Sapudi Bagian Utara"
+                },
+                {
+                    "id": "P.O.22",
+                    "name": "Perairan Kep. Sapudi Bagian Selatan"
+                },
+                {
+                    "id": "P.O.12",
+                    "name": "Perairan Kep. Kangean Bagian Utara"
+                },
+                {
+                    "id": "P.O.23",
+                    "name": "Perairan Kep. Kangean Selatan"
+                },
+                {
+                    "id": "P.O.03",
+                    "name": "Perairain Bawean Bagian Selatan"
+                },
+                {
+                    "id": "P.O.04",
+                    "name": "Perairan Tuban"
+                },
+                {
+                    "id": "P.O.05",
+                    "name": "Perairan Lamongan"
+                },
+                {
+                    "id": "P.O.07",
+                    "name": "Perairan Utara Bangkalan"
+                },
+                {
+                    "id": "P.O.08",
+                    "name": "Perairan Utara Sampang"
+                },
+                {
+                    "id": "P.O.09",
+                    "name": "Perairan Utara Pamengkasan"
+                },
+                {
+                    "id": "P.O.21",
+                    "name": "Perairan Sumenep Bagian Selatan"
+                },
+                {
+                    "id": "P.O.18",
+                    "name": "Perairan Selatan Pamengkasan"
+                },
+                {
+                    "id": "P.O.15",
+                    "name": "Perairan Surabaya - Bangkalan"
+                },
+                {
+                    "id": "P.O.16",
+                    "name": "Perairan Sidoarjo"
+                },
+                {
+                    "id": "P.O.19",
+                    "name": "Perairan Pasuruan"
+                },
+                {
+                    "id": "P.O.20",
+                    "name": "Perairan Probolinggo"
+                },
+                {
+                    "id": "P.O.24",
+                    "name": "Perairan Situbondo Bagian Barat"
+                },
+                {
+                    "id": "P.O.26",
+                    "name": "Perairan Pacitan"
+                },
+                {
+                    "id": "P.O.27",
+                    "name": "Perairan Trenggalek"
+                },
+                {
+                    "id": "P.O.28",
+                    "name": "Perairan Tulungagung"
+                },
+                {
+                    "id": "P.O.29",
+                    "name": "Perairan Blitar"
+                },
+                {
+                    "id": "P.O.30",
+                    "name": "Perairan Malang"
+                },
+                {
+                    "id": "P.O.31",
+                    "name": "Perairan Lumajang"
+                },
+                {
+                    "id": "P.O.32",
+                    "name": "Perairan Jember"
+                }
+            ]
+        },
+        {
+            "province": "Kalimantan Barat",
+            "areas": [
+                {
+                    "id": "P.V.05",
+                    "name": "Perairan Kayong Utara"
+                },
+                {
+                    "id": "P.V.01",
+                    "name": "Perairan Sambas"
+                },
+                {
+                    "id": "P.V.04",
+                    "name": "Perairan Kubu Raya"
+                },
+                {
+                    "id": "P.V.06",
+                    "name": "Perairan Ketapang"
+                },
+                {
+                    "id": "P.V.03",
+                    "name": "Perairan Pontianak - Mempawah"
+                },
+                {
+                    "id": "P.V.02",
+                    "name": "Perairan Singkawang - Bengkayang"
+                }
+            ]
+        },
+        {
+            "province": "Kalimantan Selatan",
+            "areas": [
+                {
+                    "id": "P.X.04",
+                    "name": "Perairan Kotabaru"
+                },
+                {
+                    "id": "P.X.02",
+                    "name": "Perairan Tanah Laut"
+                },
+                {
+                    "id": "P.X.01",
+                    "name": "Perairan Banjarmasin"
+                },
+                {
+                    "id": "P.X.03",
+                    "name": "Perairan Tanah Bumbu"
+                }
+            ]
+        },
+        {
+            "province": "Kalimantan Tengah",
+            "areas": [
+                {
+                    "id": "P.W.05",
+                    "name": "Perairan Teluk Sampit"
+                },
+                {
+                    "id": "P.W.01",
+                    "name": "Perairan Kuala Jelai"
+                },
+                {
+                    "id": "P.W.03",
+                    "name": "Perairan Kumai"
+                },
+                {
+                    "id": "P.W.02",
+                    "name": "Perairan Pangkalan Bun"
+                },
+                {
+                    "id": "P.W.04",
+                    "name": "Perairan Kuala Pembuang"
+                },
+                {
+                    "id": "P.W.06",
+                    "name": "Perairan Kuala Kapuas"
+                }
+            ]
+        },
+        {
+            "province": "Kalimantan Timur",
+            "areas": [
+                {
+                    "id": "P.Y.02",
+                    "name": "Perairan Berau"
+                },
+                {
+                    "id": "P.Y.06",
+                    "name": "Perairan Paser"
+                },
+                {
+                    "id": "P.Y.05",
+                    "name": "Perairan Penajam - Balikpapan"
+                },
+                {
+                    "id": "P.Y.04",
+                    "name": "Perairan Kutai Kartanegara - Bontang"
+                },
+                {
+                    "id": "P.Y.03",
+                    "name": "Perairan Kutai Timur"
+                },
+                {
+                    "id": "P.Y.01",
+                    "name": "Perairan Maratua"
+                }
+            ]
+        },
+        {
+            "province": "Kalimantan Utara",
+            "areas": [
+                {
+                    "id": "P.Z.03",
+                    "name": "Perairan Tanjung Selor"
+                },
+                {
+                    "id": "P.Z.02",
+                    "name": "Perairan Tarakan"
+                },
+                {
+                    "id": "P.Z.01",
+                    "name": "Perairan Nunukan - Sebatik"
+                }
+            ]
+        },
+        {
+            "province": "Kep. Bangka Belitung",
+            "areas": [
+                {
+                    "id": "P.S.09",
+                    "name": "Selat Gelasa"
+                },
+                {
+                    "id": "P.S.01",
+                    "name": "Perairan Bangka Barat Bagian Utara"
+                },
+                {
+                    "id": "P.S.02",
+                    "name": "Perairan Bangka Bagian Utara"
+                },
+                {
+                    "id": "P.S.11",
+                    "name": "Perairan P. Belitung Bagian Timur"
+                },
+                {
+                    "id": "P.S.10",
+                    "name": "Perairan P. Belitung Bagian Utara"
+                },
+                {
+                    "id": "P.S.12",
+                    "name": "Perairan P. Belitung Bagian Selatan"
+                },
+                {
+                    "id": "P.S.08",
+                    "name": "Perairan Bangka Barat Bagian Selatan"
+                },
+                {
+                    "id": "P.S.07",
+                    "name": "Perairan Bangka Bagian Selatan"
+                },
+                {
+                    "id": "P.S.03",
+                    "name": "Perairan Bangka Tengah Bagian Timur"
+                },
+                {
+                    "id": "P.S.06",
+                    "name": "Perairan Bangka Tengah Bagian Barat"
+                },
+                {
+                    "id": "P.S.04",
+                    "name": "Perairan Bangka Selatan Bagian Timur"
+                },
+                {
+                    "id": "P.S.05",
+                    "name": "Perairan Bangka Selatan Bagian Barat"
+                }
+            ]
+        },
+        {
+            "province": "Kep. Riau",
+            "areas": [
+                {
+                    "id": "P.R.04",
+                    "name": "Perairan Kep. Lingga"
+                },
+                {
+                    "id": "P.Q.05",
+                    "name": "Perairan Barat Kep. Natuna"
+                },
+                {
+                    "id": "P.R.05",
+                    "name": "Perairan Kep. Tambelan"
+                },
+                {
+                    "id": "P.R.01",
+                    "name": "Perairan Kep. Karimun"
+                },
+                {
+                    "id": "P.R.02",
+                    "name": "Perairan Kep. Batam"
+                },
+                {
+                    "id": "P.R.03",
+                    "name": "Perairan Kep. Bintan"
+                },
+                {
+                    "id": "P.Q.01",
+                    "name": "Perairan Selatan Kep. Anambas"
+                },
+                {
+                    "id": "P.Q.04",
+                    "name": "Perairan Utara Kep. Natuna"
+                },
+                {
+                    "id": "P.Q.07",
+                    "name": "Perairan Timur Kep. Natuna"
+                },
+                {
+                    "id": "P.Q.06",
+                    "name": "Perairan Selatan Kep. Natuna"
+                },
+                {
+                    "id": "P.Q.08",
+                    "name": "Perairan Kep. Subi - Serasan"
+                },
+                {
+                    "id": "P.Q.03",
+                    "name": "Perairan Kep. Natuna - Anambas"
+                },
+                {
+                    "id": "P.Q.02",
+                    "name": "Perairan Utara Kep. Anambas"
+                }
+            ]
+        },
+        {
+            "province": "Lampung",
+            "areas": [
+                {
+                    "id": "P.H.01",
+                    "name": "Perairan Barat Lampung"
+                },
+                {
+                    "id": "P.H.06",
+                    "name": "Perairan Timur Lampung Bagian Utara"
+                },
+                {
+                    "id": "P.H.03",
+                    "name": "Perairan Teluk Lampung Bagian Utara"
+                },
+                {
+                    "id": "P.H.04",
+                    "name": "Perairan Teluk Lampung Bagian Selatan"
+                },
+                {
+                    "id": "P.H.05",
+                    "name": "Perairan Timur Lampung Bagian Selatan"
+                },
+                {
+                    "id": "P.H.02",
+                    "name": "Selat Sunda Selatan Lampung"
+                }
+            ]
+        },
+        {
+            "province": "Maluku",
+            "areas": [
+                {
+                    "id": "P.AH.17",
+                    "name": "Perairan Kep. Sermata - Kep. Leti"
+                },
+                {
+                    "id": "P.AH.10",
+                    "name": "Perairan Kep. Banda Neira"
+                },
+                {
+                    "id": "P.AH.01",
+                    "name": "Perairan Utara P. Buru"
+                },
+                {
+                    "id": "P.AH.12",
+                    "name": "Perairan Utara Kep. Aru"
+                },
+                {
+                    "id": "P.AH.11",
+                    "name": "Perairan Kep. Kai"
+                },
+                {
+                    "id": "P.AH.14",
+                    "name": "Perairan Barat Kep. Tanimbar"
+                },
+                {
+                    "id": "P.AH.16",
+                    "name": "Perairan Kep. Babar"
+                },
+                {
+                    "id": "P.AH.02",
+                    "name": "Perairan Selatan P. Buru"
+                },
+                {
+                    "id": "P.AH.09",
+                    "name": "Perairan Seram Bagian Timur (P. Gorong)"
+                },
+                {
+                    "id": "P.AH.05",
+                    "name": "Perairan Utara Maluku Tengah"
+                },
+                {
+                    "id": "P.AH.03",
+                    "name": "Perairan Seram Bagian Barat"
+                },
+                {
+                    "id": "P.AH.04",
+                    "name": "Perairan P. Ambon - P. Lease"
+                },
+                {
+                    "id": "P.AH.06",
+                    "name": "Perairan Selatan Maluku Tengah"
+                },
+                {
+                    "id": "P.AH.13",
+                    "name": "Perairan Selatan Kep. Aru"
+                },
+                {
+                    "id": "P.AH.15",
+                    "name": "Perairan Timur Kep. Tanimbar"
+                },
+                {
+                    "id": "P.AH.18",
+                    "name": "Perairan Wetar"
+                },
+                {
+                    "id": "P.AH.07",
+                    "name": "Perairan Seram Bagian Timur (Utara)"
+                },
+                {
+                    "id": "P.AH.08",
+                    "name": "Perairan Seram Bagian Timur (Selatan)"
+                }
+            ]
+        },
+        {
+            "province": "Maluku Utara",
+            "areas": [
+                {
+                    "id": "P.AG.18",
+                    "name": "Perairan Timur Kep. Halmahera"
+                },
+                {
+                    "id": "P.AG.04",
+                    "name": "Perairan Tenggara Morotai"
+                },
+                {
+                    "id": "P.AG.07",
+                    "name": "Perairan Halmahera Barat"
+                },
+                {
+                    "id": "P.AG.06",
+                    "name": "Perairan Kep. Loloda"
+                },
+                {
+                    "id": "P.AG.23",
+                    "name": "Perairan Selatan Taliabu"
+                },
+                {
+                    "id": "P.AG.24",
+                    "name": "Perairan Utara Mangole"
+                },
+                {
+                    "id": "P.AG.17",
+                    "name": "Perairan Timur Obi"
+                },
+                {
+                    "id": "P.AG.19",
+                    "name": "Teluk Weda"
+                },
+                {
+                    "id": "P.AG.21",
+                    "name": "Perairan Kep. Batang Dua"
+                },
+                {
+                    "id": "P.AG.08",
+                    "name": "Perairan Ternate"
+                },
+                {
+                    "id": "P.AG.10",
+                    "name": "Perairan Timur Kayoa"
+                },
+                {
+                    "id": "P.AG.09",
+                    "name": "Perairan Barat Kayoa"
+                },
+                {
+                    "id": "P.AG.12",
+                    "name": "Perairan Timur Bacan"
+                },
+                {
+                    "id": "P.AG.11",
+                    "name": "Perairan Barat Bacan"
+                },
+                {
+                    "id": "P.AG.13",
+                    "name": "Perairan Barat Laut Obi"
+                },
+                {
+                    "id": "P.AG.15",
+                    "name": "Perairan Barat Daya Obi"
+                },
+                {
+                    "id": "P.AG.14",
+                    "name": "Perairan Timur Laut Obi"
+                },
+                {
+                    "id": "P.AG.16",
+                    "name": "Perairan Tenggara Obi"
+                },
+                {
+                    "id": "P.AG.26",
+                    "name": "Perairan Timur Sanana"
+                },
+                {
+                    "id": "P.AG.25",
+                    "name": "Perairan Barat Sanana"
+                },
+                {
+                    "id": "P.AG.22",
+                    "name": "Perairan Utara Taliabu"
+                },
+                {
+                    "id": "P.AG.20",
+                    "name": "Perairan Gebe"
+                },
+                {
+                    "id": "P.AG.05",
+                    "name": "Teluk Kao"
+                },
+                {
+                    "id": "P.AG.01",
+                    "name": "Perairan Barat Laut Morotai"
+                },
+                {
+                    "id": "P.AG.02",
+                    "name": "Perairan Timur Laut Morotai"
+                },
+                {
+                    "id": "P.AG.03",
+                    "name": "Perairan Barat Daya Morotai"
+                }
+            ]
+        },
+        {
+            "province": "Nusa Tenggara Barat",
+            "areas": [
+                {
+                    "id": "P.T.02",
+                    "name": "Perairan Utara P. Sumbawa"
+                },
+                {
+                    "id": "P.T.01",
+                    "name": "Perairan Utara P. Lombok"
+                },
+                {
+                    "id": "P.T.04",
+                    "name": "Selat Alas Bagian Selatan"
+                },
+                {
+                    "id": "P.T.03",
+                    "name": "Selat Alas Bagian Utara"
+                },
+                {
+                    "id": "P.T.05",
+                    "name": "Perairan Selatan P. Lombok"
+                },
+                {
+                    "id": "P.T.06",
+                    "name": "Perairan Selatan P. Sumbawa"
+                }
+            ]
+        },
+        {
+            "province": "Nusa Tenggara Timur",
+            "areas": [
+                {
+                    "id": "P.U.03",
+                    "name": "Perairan Utara Flores"
+                },
+                {
+                    "id": "P.U.19",
+                    "name": "Perairan Selatan Timor - Rote"
+                },
+                {
+                    "id": "P.U.07",
+                    "name": "Perairan Selatan Flores"
+                },
+                {
+                    "id": "P.U.01",
+                    "name": "Selat Sape Bagian Utara"
+                },
+                {
+                    "id": "P.U.13",
+                    "name": "Perairan Selatan Sumba"
+                },
+                {
+                    "id": "P.U.18",
+                    "name": "Perairan Selatan Sabu - Raijua"
+                },
+                {
+                    "id": "P.U.10",
+                    "name": "Selat Sumba Bagian Timur"
+                },
+                {
+                    "id": "P.U.11",
+                    "name": "Laut Sawu"
+                },
+                {
+                    "id": "P.U.09",
+                    "name": "Selat Sumba Bagian Barat"
+                },
+                {
+                    "id": "P.U.02",
+                    "name": "Selat Sape Bagian Selatan"
+                },
+                {
+                    "id": "P.U.06",
+                    "name": "Selat Alor"
+                },
+                {
+                    "id": "P.U.12",
+                    "name": "Selat Ombai"
+                },
+                {
+                    "id": "P.U.04",
+                    "name": "Selat Flores - Lamakera"
+                },
+                {
+                    "id": "P.U.05",
+                    "name": "Selat Pantar"
+                },
+                {
+                    "id": "P.U.08",
+                    "name": "Perairan Selatan Alor - Pantar"
+                },
+                {
+                    "id": "P.U.14",
+                    "name": "Perairan Utara Sabu - Raijua"
+                },
+                {
+                    "id": "P.U.16",
+                    "name": "Perairan Utara Kupang - Rote"
+                },
+                {
+                    "id": "P.U.17",
+                    "name": "Selat Pukuafu"
+                },
+                {
+                    "id": "P.U.15",
+                    "name": "Perairan Utara Timor"
+                },
+                {
+                    "id": "P.U.20",
+                    "name": "Perairan Labuan Bajo"
+                },
+                {
+                    "id": "P.U.21",
+                    "name": "Perairan Taman Nasional Komodo"
+                }
+            ]
+        },
+        {
+            "province": "Papua",
+            "areas": [
+                {
+                    "id": "P.AL.04",
+                    "name": "Perairan Selatan P. Biak"
+                },
+                {
+                    "id": "P.AL.08",
+                    "name": "Perairan Sarmi - Mamberamo"
+                },
+                {
+                    "id": "P.AL.03",
+                    "name": "Perairan Utara P. Biak"
+                },
+                {
+                    "id": "P.AL.05",
+                    "name": "Perairan Timur P. Biak"
+                },
+                {
+                    "id": "P.AL.06",
+                    "name": "Perairan Utara Serui"
+                },
+                {
+                    "id": "P.AL.01",
+                    "name": "Perairan Kep. Mapia"
+                },
+                {
+                    "id": "P.AL.09",
+                    "name": "Perairan Jayapura"
+                },
+                {
+                    "id": "P.AL.02",
+                    "name": "Perairan Barat P. Biak"
+                },
+                {
+                    "id": "P.AL.07",
+                    "name": "Perairan Selatan Serui"
+                }
+            ]
+        },
+        {
+            "province": "Papua Barat",
+            "areas": [
+                {
+                    "id": "P.AJ.03",
+                    "name": "Teluk Cenderawasih Bagian Barat"
+                },
+                {
+                    "id": "P.AJ.07",
+                    "name": "Perairan Selatan Kaimana"
+                },
+                {
+                    "id": "P.AJ.04",
+                    "name": "Teluk Bintuni"
+                },
+                {
+                    "id": "P.AJ.05",
+                    "name": "Perairan Utara Fakfak"
+                },
+                {
+                    "id": "P.AJ.01",
+                    "name": "Perairan Utara Manokwari"
+                },
+                {
+                    "id": "P.AJ.06",
+                    "name": "Perairan Selatan Fakfak"
+                },
+                {
+                    "id": "P.AJ.02",
+                    "name": "Perairan Timur Manokwari"
+                }
+            ]
+        },
+        {
+            "province": "Papua Barat Daya",
+            "areas": [
+                {
+                    "id": "P.AI.01",
+                    "name": "Perairan Raja Ampat Bagian Utara"
+                },
+                {
+                    "id": "P.AI.04",
+                    "name": "Perairan Sorong Selatan"
+                },
+                {
+                    "id": "P.AI.02",
+                    "name": "Perairan Raja Ampat Sorong"
+                },
+                {
+                    "id": "P.AI.03",
+                    "name": "Perairan Misool"
+                }
+            ]
+        },
+        {
+            "province": "Papua Selatan",
+            "areas": [
+                {
+                    "id": "P.AM.05",
+                    "name": "Perairan Merauke"
+                },
+                {
+                    "id": "P.AM.01",
+                    "name": "Perairan Asmat"
+                },
+                {
+                    "id": "P.AM.02",
+                    "name": "Perairan Mappi"
+                },
+                {
+                    "id": "P.AM.03",
+                    "name": "Perairan Yos Sudarso Bagian Utara"
+                },
+                {
+                    "id": "P.AM.04",
+                    "name": "Perairan Yos Sudarso Bagian Selatan"
+                }
+            ]
+        },
+        {
+            "province": "Papua Tengah",
+            "areas": [
+                {
+                    "id": "P.AK.01",
+                    "name": "Teluk Cenderawasih Bagian Tengah"
+                },
+                {
+                    "id": "P.AK.02",
+                    "name": "Perairan Kokonao"
+                },
+                {
+                    "id": "P.AK.03",
+                    "name": "Perairan Timika"
+                }
+            ]
+        },
+        {
+            "province": "Riau",
+            "areas": [
+                {
+                    "id": "P.C.02",
+                    "name": "Perairan Dumai - Bengkalis"
+                },
+                {
+                    "id": "P.C.03",
+                    "name": "Perairan Kep. Meranti - Pelalawan"
+                },
+                {
+                    "id": "P.C.01",
+                    "name": "Perairan Rokan Hilir"
+                },
+                {
+                    "id": "P.C.04",
+                    "name": "Perairan Indragiri Hilir"
+                }
+            ]
+        },
+        {
+            "province": "Sulawesi Barat",
+            "areas": [
+                {
+                    "id": "P.AD.03",
+                    "name": "Perairan Topoyo"
+                },
+                {
+                    "id": "P.AD.10",
+                    "name": "Perairan Polewali"
+                },
+                {
+                    "id": "P.AD.09",
+                    "name": "Perairan Balanipa"
+                },
+                {
+                    "id": "P.AD.08",
+                    "name": "Perairan Majene"
+                },
+                {
+                    "id": "P.AD.07",
+                    "name": "Perairan Sendana"
+                },
+                {
+                    "id": "P.AD.06",
+                    "name": "Perairan Malunda"
+                },
+                {
+                    "id": "P.AD.05",
+                    "name": "Perairan Tapalang"
+                },
+                {
+                    "id": "P.AD.04",
+                    "name": "Perairan Mamuju"
+                },
+                {
+                    "id": "P.AD.02",
+                    "name": "Perairan Tikke"
+                },
+                {
+                    "id": "P.AD.01",
+                    "name": "Perairan Pasangkayu"
+                }
+            ]
+        },
+        {
+            "province": "Sulawesi Selatan",
+            "areas": [
+                {
+                    "id": "P.AE.08",
+                    "name": "Perairan Kep. Takabonerate"
+                },
+                {
+                    "id": "P.AE.03",
+                    "name": "Perairan Pangkep"
+                },
+                {
+                    "id": "P.AE.05",
+                    "name": "Perairan Jeneponto"
+                },
+                {
+                    "id": "P.AE.10",
+                    "name": "Perairan Bone"
+                },
+                {
+                    "id": "P.AE.13",
+                    "name": "Perairan Luwu Utara"
+                },
+                {
+                    "id": "P.AE.12",
+                    "name": "Perairan Luwu"
+                },
+                {
+                    "id": "P.AE.07",
+                    "name": "Perairan Kep. Selayar"
+                },
+                {
+                    "id": "P.AE.11",
+                    "name": "Perairan Wajo"
+                },
+                {
+                    "id": "P.AE.09",
+                    "name": "Perairan Sinjai"
+                },
+                {
+                    "id": "P.AE.06",
+                    "name": "Perairan Bulukumba"
+                },
+                {
+                    "id": "P.AE.04",
+                    "name": "Perairan Makassar"
+                },
+                {
+                    "id": "P.AE.02",
+                    "name": "Perairan Barru"
+                },
+                {
+                    "id": "P.AE.01",
+                    "name": "Perairan Pinrang"
+                }
+            ]
+        },
+        {
+            "province": "Sulawesi Tengah",
+            "areas": [
+                {
+                    "id": "P.AC.03",
+                    "name": "Perairan Donggala - Palu"
+                },
+                {
+                    "id": "P.AC.02",
+                    "name": "Perairan Tolitoli"
+                },
+                {
+                    "id": "P.AC.11",
+                    "name": "Teluk Tomini"
+                },
+                {
+                    "id": "P.AC.16",
+                    "name": "Perairan Banggai Laut"
+                },
+                {
+                    "id": "P.AC.10",
+                    "name": "Perairan Timur Banggai"
+                },
+                {
+                    "id": "P.AC.01",
+                    "name": "Perairan Buol"
+                },
+                {
+                    "id": "P.AC.04",
+                    "name": "Teluk Tomini Selatan Parigimountong"
+                },
+                {
+                    "id": "P.AC.05",
+                    "name": "Teluk Tomini Timur Parigimountong"
+                },
+                {
+                    "id": "P.AC.06",
+                    "name": "Teluk Tomini Utara Poso"
+                },
+                {
+                    "id": "P.AC.07",
+                    "name": "Teluk Tomini Utara Tojounauna"
+                },
+                {
+                    "id": "P.AC.08",
+                    "name": "Perairan Kep. Tojounauna"
+                },
+                {
+                    "id": "P.AC.09",
+                    "name": "Teluk Tomini Utara Banggai"
+                },
+                {
+                    "id": "P.AC.17",
+                    "name": "Perairan Banggai Kepulauan"
+                },
+                {
+                    "id": "P.AC.12",
+                    "name": "Perairan Morowali"
+                },
+                {
+                    "id": "P.AC.13",
+                    "name": "Perairan Morowali Utara"
+                },
+                {
+                    "id": "P.AC.14",
+                    "name": "Teluk Tolo"
+                },
+                {
+                    "id": "P.AC.15",
+                    "name": "Perairan Selatan Banggai"
+                }
+            ]
+        },
+        {
+            "province": "Sulawesi Tenggara",
+            "areas": [
+                {
+                    "id": "P.AF.19",
+                    "name": "Laut Banda Timur Wakatobi"
+                },
+                {
+                    "id": "P.AF.13",
+                    "name": "Perairan Buton"
+                },
+                {
+                    "id": "P.AF.14",
+                    "name": "Teluk Bone Barat Kolaka Utara"
+                },
+                {
+                    "id": "P.AF.01",
+                    "name": "Selat Labengki"
+                },
+                {
+                    "id": "P.AF.02",
+                    "name": "Laut Labengki"
+                },
+                {
+                    "id": "P.AF.04",
+                    "name": "Teluk Kendari - Moramo"
+                },
+                {
+                    "id": "P.AF.05",
+                    "name": "Selat Wawoni"
+                },
+                {
+                    "id": "P.AF.03",
+                    "name": "Perairan Utara Wawoni"
+                },
+                {
+                    "id": "P.AF.07",
+                    "name": "Laut Banda Timur Wawoni"
+                },
+                {
+                    "id": "P.AF.06",
+                    "name": "Selat Cempedak"
+                },
+                {
+                    "id": "P.AF.08",
+                    "name": "Selat Buton"
+                },
+                {
+                    "id": "P.AF.09",
+                    "name": "Selat Tiworo Bagian Timur"
+                },
+                {
+                    "id": "P.AF.10",
+                    "name": "Selat Tiworo Bagian Barat"
+                },
+                {
+                    "id": "P.AF.15",
+                    "name": "Teluk Bone Barat Kolaka"
+                },
+                {
+                    "id": "P.AF.16",
+                    "name": "Teluk Bone Barat Kabaena"
+                },
+                {
+                    "id": "P.AF.11",
+                    "name": "Perairan Baubau"
+                },
+                {
+                    "id": "P.AF.12",
+                    "name": "Laut Flores Selatan Buton"
+                },
+                {
+                    "id": "P.AF.18",
+                    "name": "Perairan Wakatobi Bagian Barat"
+                },
+                {
+                    "id": "P.AF.17",
+                    "name": "Perairan Wakatobi Bagian Timur"
+                }
+            ]
+        },
+        {
+            "province": "Sulawesi Utara",
+            "areas": [
+                {
+                    "id": "P.AA.05",
+                    "name": "Perairan Utara Sulawesi Utara"
+                },
+                {
+                    "id": "P.AA.01",
+                    "name": "Perairan Kep. Talaud"
+                },
+                {
+                    "id": "P.AA.02",
+                    "name": "Perairan Kep. Sangihe"
+                },
+                {
+                    "id": "P.AA.03",
+                    "name": "Perairan Kep. Sitaro"
+                },
+                {
+                    "id": "P.AA.06",
+                    "name": "Perairan Selatan Sulawesi Utara"
+                },
+                {
+                    "id": "P.AA.04",
+                    "name": "Perairan Minahasa Utara"
+                }
+            ]
+        },
+        {
+            "province": "Sumatra Barat",
+            "areas": [
+                {
+                    "id": "P.D.03",
+                    "name": "Perairan Pesisir Selatan"
+                },
+                {
+                    "id": "P.D.09",
+                    "name": "Perairan Barat Pagai"
+                },
+                {
+                    "id": "P.D.06",
+                    "name": "Perairan Timur Pagai"
+                },
+                {
+                    "id": "P.D.01",
+                    "name": "Perairan Agam - Pasaman Barat"
+                },
+                {
+                    "id": "P.D.02",
+                    "name": "Perairan Padang - Padang Pariaman"
+                },
+                {
+                    "id": "P.D.04",
+                    "name": "Perairan Timur Siberut"
+                },
+                {
+                    "id": "P.D.07",
+                    "name": "Perairan Barat Siberut"
+                },
+                {
+                    "id": "P.D.05",
+                    "name": "Perairan Timur Sipora"
+                },
+                {
+                    "id": "P.D.08",
+                    "name": "Perairan Barat Sipora"
+                }
+            ]
+        },
+        {
+            "province": "Sumatra Selatan",
+            "areas": [
+                {
+                    "id": "P.F.02",
+                    "name": "Perairan Ogan Komering Ilir"
+                },
+                {
+                    "id": "P.F.01",
+                    "name": "Perairan Banyuasin"
+                }
+            ]
+        },
+        {
+            "province": "Sumatra Utara",
+            "areas": [
+                {
+                    "id": "P.B.01",
+                    "name": "Perairan Timur Sumatra Utara"
+                },
+                {
+                    "id": "P.B.05",
+                    "name": "Perairan Barat Kep. Nias"
+                },
+                {
+                    "id": "P.B.02",
+                    "name": "Perairan Barat Sumatra Utara"
+                },
+                {
+                    "id": "P.B.03",
+                    "name": "Perairan Timur Kep. Nias"
+                },
+                {
+                    "id": "P.B.06",
+                    "name": "Perairan Barat Kep. Batu"
+                },
+                {
+                    "id": "P.B.04",
+                    "name": "Perairan Kep. Batu"
+                }
+            ]
+        }
+    ]
+}
